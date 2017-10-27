@@ -1,0 +1,22 @@
+{
+  "name": "webrtc-camera-resolution",
+  "version": "1.0.0",
+  "description": "WebRTC-Camera-Resolution ========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimbleape/WebRTC-Camera-Resolution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimbleape/WebRTC-Camera-Resolution/issues"
+  },
+  "homepage": "https://github.com/nimbleape/WebRTC-Camera-Resolution#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
